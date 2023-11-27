@@ -21,8 +21,6 @@
 	https://docs.streamlit.io/en/latest/
 
 """
-pip install joblib
-
 # Streamlit dependencies
 import streamlit as st
 import joblib, os
